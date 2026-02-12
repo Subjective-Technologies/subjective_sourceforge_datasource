@@ -1,4 +1,5 @@
 {
+  "description": "Clones SourceForge repositories into a target directory and prepares source artifacts for indexing workflows.",
   "domainCategory": "Software Development",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Source Forge",
-      "text": "A Subjective data source for source forge.",
+      "text": "Clones SourceForge repositories into a target directory and prepares source artifacts for indexing workflows.",
       "image": {
         "src": "/subjective_sourceforge_datasource/icon.svg",
         "alt": "Source Forge icon"
